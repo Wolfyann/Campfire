@@ -2,7 +2,7 @@
 //   MSP430G2xx3 Campfire with  Microcontroler
 //
 //   Description: LED Controled by PWM to simulate a campfire
-//   Built with CCS V12.x - ESIGELEC 07 Nov. 2022 - Yann DUCHEMIN
+//   Built with CCS V12.x
 // R. 02 / 12 / 2022
 //******************************************************************************
 /*                       _____________
