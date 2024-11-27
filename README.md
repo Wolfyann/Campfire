@@ -7,6 +7,8 @@ This project simulates a small campfire effect using LEDs controlled by a Texas 
 - **PWM Control**: Uses TimerA for precise control of LED brightness.
 - **Day/Night Detection**: (Optional) Can integrate an LDR (light-dependent resistor) for ambient light detection.
 
+![Demo lamp](https://github.com/Wolfyann/Campfire/blob/main/resources/lamp.gif)
+
 ## Components
 - **Microcontroller**: MSP430G2553
 - **LEDs**:
